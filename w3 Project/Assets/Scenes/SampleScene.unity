@@ -420,7 +420,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0.3213201, y: -0.011570489, z: 0.0013762133, w: 0.94689894}
-  m_LocalPosition: {x: 0.21027757, y: 5.8554716, z: -7.93239}
+  m_LocalPosition: {x: 0.21027757, y: 5.9754715, z: -7.93239}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -710,7 +710,7 @@ GameObject:
   - component: {fileID: 1375305613}
   - component: {fileID: 1375305617}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Dropper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1165,7 +1165,7 @@ Transform:
   m_GameObject: {fileID: 1498178245}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.23, z: 0}
+  m_LocalPosition: {x: 0, y: -0.11, z: 0}
   m_LocalScale: {x: 1, y: 0.40283, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1499,7 +1499,7 @@ Transform:
   m_GameObject: {fileID: 1920181274}
   serializedVersion: 2
   m_LocalRotation: {x: 0.3213201, y: -0.011570489, z: 0.0013762133, w: 0.94689894}
-  m_LocalPosition: {x: 0.21027757, y: 5.8554716, z: -7.93239}
+  m_LocalPosition: {x: 0.21027757, y: 5.9754715, z: -7.93239}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
